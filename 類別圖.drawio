@@ -10,19 +10,19 @@
                 <mxCell id="7" value="簽合約(甲方)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6">
                     <mxGeometry y="26" width="150" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="在有效時間寄貨給水果店&#10;&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6">
+                <mxCell id="9" value="期限內寄貨給水果店&#10;&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6">
                     <mxGeometry y="52" width="150" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="水果店(中盤商)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
                     <mxGeometry x="250" y="20" width="160" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="簽合約(乙方)&#10;商品設計條碼&#10;統計貨數量&#10;冷藏保存&#10;平台擁有者&#10;當商品販賣時，條碼消除&#10;在有效時間寄送貨品給客人" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="10">
+                <mxCell id="11" value="簽合約(乙方)&#10;商品設計條碼&#10;統計貨數量&#10;冷藏保存&#10;平台擁有者&#10;當商品販賣時，條碼消除&#10;備貨" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="10">
                     <mxGeometry y="26" width="160" height="114" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="送貨員" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
                     <mxGeometry x="470" y="20" width="150" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="需開冷藏車，在有效時間，&#10;送達貨物&#10;隨時回報抵達位置" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13">
+                <mxCell id="14" value="需開冷藏車&#10;期限內送達貨物&#10;隨時回報抵達位置" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13">
                     <mxGeometry y="26" width="150" height="104" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="顧客" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -71,7 +71,7 @@
                     <mxGeometry x="630" y="40" width="20" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-                    <mxGeometry x="750" y="180" width="40" height="20" as="geometry"/>
+                    <mxGeometry x="750" y="170" width="30" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
