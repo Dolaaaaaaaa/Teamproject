@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="RD2tMFQ6KJdDeDjV_eDR" name="第1頁">
-        <mxGraphModel dx="697" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1220" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -9,13 +9,13 @@
                 </mxCell>
                 <mxCell id="35" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="14">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="520" y="1072.807038959704" as="sourcePoint"/>
+                        <mxPoint x="520" y="870" as="sourcePoint"/>
                         <mxPoint x="524.38" y="130" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="76" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="87">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="230" y="1122.1052631578948" as="sourcePoint"/>
+                        <mxPoint x="230" y="880" as="sourcePoint"/>
                         <mxPoint x="229" y="140" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
@@ -27,7 +27,7 @@
                 </mxCell>
                 <mxCell id="82" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="100" y="1121.4035516036183" as="sourcePoint"/>
+                        <mxPoint x="100" y="870" as="sourcePoint"/>
                         <mxPoint x="100" y="130" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
@@ -39,7 +39,7 @@
                 </mxCell>
                 <mxCell id="92" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="159" y="1121.4035516036183" as="sourcePoint"/>
+                        <mxPoint x="159" y="870" as="sourcePoint"/>
                         <mxPoint x="159.37000000000012" y="130" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
@@ -233,7 +233,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="160" value="客服系統" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="10" y="750" width="540" height="230" as="geometry"/>
+                    <mxGeometry x="10" y="750" width="540" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="161" value="" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;flipH=1;direction=south;" vertex="1" parent="1">
                     <mxGeometry x="510" y="760" width="30" height="60" as="geometry"/>
@@ -244,7 +244,7 @@
                         <mxPoint x="510" y="770" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="163" value="客戶下單（）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="162">
+                <mxCell id="163" value="客戶詢問問題（）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="162">
                     <mxGeometry x="-0.4902" y="2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
@@ -255,7 +255,7 @@
                         <mxPoint x="100" y="790" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="165" value="系統會回報兩個付款方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="164">
+                <mxCell id="165" value="系統自動回復" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="164">
                     <mxGeometry x="0.0988" y="3" relative="1" as="geometry">
                         <mxPoint x="-1" as="offset"/>
                     </mxGeometry>
